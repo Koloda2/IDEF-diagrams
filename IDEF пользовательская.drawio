@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T09:01:17.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="p9IaU9G1Af6S9c7KKeQg" version="20.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:10:56.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.2.807 Yowser/2.5 Safari/537.36" etag="oL8InlU0CyRPcI4Yytlu" version="20.6.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1614" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-41" value="Выбрать автошколу и пройти курсы" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-41" value="Зайти на сайт и принять условия" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-42" value="Сдать теоретический экзамен и практику" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-42" value="Прохождение заданий и прочих условий" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-43" value="Получить водительские права" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-43" value="Получить нового персонажа" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vzEPvGNgW9T1r-BRCIDj-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=Times New Roman;" edge="1" parent="1" source="vzEPvGNgW9T1r-BRCIDj-41" target="vzEPvGNgW9T1r-BRCIDj-42">
@@ -19,7 +19,7 @@
             <mxPoint x="690" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-45" value="Прохождение&lt;br&gt;обучения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-44">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-45" value="Завершение регистрации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-44">
           <mxGeometry x="-0.2159" y="-4" relative="1" as="geometry">
             <mxPoint y="16" as="offset" />
           </mxGeometry>
@@ -30,13 +30,13 @@
             <mxPoint x="690" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-47" value="Прохождение &lt;br&gt;проверки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-46">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-47" value="Выполнение условий&lt;br&gt;события" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-46">
           <mxGeometry x="-0.1415" y="1" relative="1" as="geometry">
             <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vzEPvGNgW9T1r-BRCIDj-48" value="Выполнение &lt;br style=&quot;font-size: 13px;&quot;&gt;требований&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="174" y="245" width="90" height="40" as="geometry" />
+          <mxGeometry x="174" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vzEPvGNgW9T1r-BRCIDj-49" value="A1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="420" y="300" width="20" height="20" as="geometry" />
@@ -56,7 +56,7 @@
             <mxPoint x="660" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-53" value="Экзменаторы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-52">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-53" value="Система акции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-52">
           <mxGeometry x="-0.1446" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="-8" as="offset" />
           </mxGeometry>
@@ -71,7 +71,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-55" value="Сотрудник &lt;br&gt;ГИБДД" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-54">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-55" value="Модераторы&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-54">
           <mxGeometry x="-0.1446" y="2" relative="1" as="geometry">
             <mxPoint x="132" y="-58" as="offset" />
           </mxGeometry>
@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-57" value="Педагоги, имеющие &lt;br style=&quot;font-size: 14px;&quot;&gt;опыт вождения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-56">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-57" value="Система сайта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-56">
           <mxGeometry x="-0.1446" y="2" relative="1" as="geometry">
             <mxPoint x="-64" y="-82" as="offset" />
           </mxGeometry>
@@ -97,7 +97,7 @@
             <mxPoint x="1200" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-59" value="Водительские&lt;br&gt;&amp;nbsp;права" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-58">
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-59" value="Персонаж" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vzEPvGNgW9T1r-BRCIDj-58">
           <mxGeometry x="-0.1448" y="1" relative="1" as="geometry">
             <mxPoint y="-19" as="offset" />
           </mxGeometry>
@@ -137,8 +137,8 @@
         <mxCell id="vzEPvGNgW9T1r-BRCIDj-64" value="A3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1060" y="460" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vzEPvGNgW9T1r-BRCIDj-65" value="Получение водительских прав" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="60" width="120" height="30" as="geometry" />
+        <mxCell id="vzEPvGNgW9T1r-BRCIDj-65" value="Получение лимитированного&amp;nbsp; персонажа за акцию на сайте сообщества" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
